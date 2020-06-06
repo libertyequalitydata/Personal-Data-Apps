@@ -74,7 +74,7 @@ At the most advanced level, developers can create even more complete experiences
 
 This blog post is part of the ‘Use Case Blog Series’, where we share our thoughts on how to reimagine existing applications and create entirely new applications that are possible due to new regulations and the Prifina architecture. In this series, we will publish new use cases for potential new applications, preliminary business model ideas to support them and the type of data that can make new types of customer experiences possible.
 
-Start Developing Personal Data Applications
+<h2>Start Developing Personal Data Applications</h2>
 
 If you have an idea for a new type of application, or for an application that simply needs to be reimagined, get in touch with us and we will be happy to brainstorm with you and publish your idea via our channel, and your application in our App Market.
 Naturally, if you are interested in developing that yourself and want to keep it private, just sign up for our developer account and get started.

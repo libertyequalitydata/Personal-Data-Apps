@@ -1,5 +1,8 @@
 # personal-data-apps
 
+For a more user friendly read, you can see this article on Medium: 
+https://medium.com/prifina/build-3-types-of-data-apps-with-prifina-7db735e14590
+
 Prifina believes in a future where personal data is user-held and portable between applications by individuals' decisions. In this post, we cover three different types of apps that can be built using a user-held data framework.
 
 Prifina provides a personal computing platform in the cloud for individuals to manage their personal data and empower them to activate their data in fundamentally new ways. For developers and service providers, Prifina provides a platform to develop and publish new types of personal applications and personalized experiences for their customers.

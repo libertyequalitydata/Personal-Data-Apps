@@ -42,11 +42,11 @@ The ability to interact between individuals and services with varying levels of 
 
 And those typically enable new types of benefits:
 
-Personal applications can turn personal data into insights with new or additional value
+<ul><li>Personal applications can turn personal data into insights with new or additional value</li>
 
-Personalize the customer experience at a more advanced and/or privacy considered levels in a scalable way
+<li>Personalize the customer experience at a more advanced and/or privacy considered levels in a scalable way</li>
 
-Optimize and automate customer interactions and improve overall operational efficiency
+<li>Optimize and automate customer interactions and improve overall operational efficiency</li></ul>
 
 <h2>Additional Benefits For Developers</h2>
 

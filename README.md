@@ -7,6 +7,8 @@ Prifina believes in a future where personal data is user-held and portable betwe
 
 Prifina provides a personal computing platform in the cloud for individuals to manage their personal data and empower them to activate their data in fundamentally new ways. For developers and service providers, Prifina provides a platform to develop and publish new types of personal applications and personalized experiences for their customers.
 
+<img src="https://miro.medium.com/max/3840/1*diB8ISKmwbFt4EcrSKwkQQ.jpeg"></img>
+
 <h2>1. Profile Apps: Improving Customer Value Experiences</h2>
 
 Via personal cloud part on the Prifina platform, individuals can activate various profile cards that are aggregated and anonymized representations about them. These cards are based on their personal data without including their actual underlying data.

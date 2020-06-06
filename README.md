@@ -1,4 +1,4 @@
-# personal-data-apps
+# Personal-Data-Apps
 
 For a more user friendly read, you can see this article on Medium: 
 https://medium.com/prifina/build-3-types-of-data-apps-with-prifina-7db735e14590

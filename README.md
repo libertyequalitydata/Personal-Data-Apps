@@ -1,6 +1,6 @@
 # Personal-Data-Apps
 
-For a more user friendly read, you can see this article on Medium: 
+For a more user friendly read, you can read this article on Medium: 
 https://medium.com/prifina/build-3-types-of-data-apps-with-prifina-7db735e14590
 
 Prifina believes in a future where personal data is user-held and portable between applications by individuals' decisions. In this post, we cover three different types of apps that can be built using a user-held data framework.
